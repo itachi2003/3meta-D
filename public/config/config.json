@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ADDRESS": "0xEb82b8b1Ec4EdD6319f38A5A7bA7D7cC5D67Ff65",
+    "SCAN_LINK": "https://polygonscan.com/token/0xeb82b8b1ec4edd6319f38a5a7ba7d7cc5d67ff65",
+    "NETWORK": {
+      "NAME": "Polygon",
+      "SYMBOL": "Matic",
+      "ID": 137
+    },
+    "NFT_NAME": "3METAD",
+    "SYMBOL": "MD",
+    "MAX_SUPPLY": 7777,
+    "WEI_COST": 0,
+    "DISPLAY_COST": 0,
+    "GAS_LIMIT": 285100,
+    "MARKETPLACE": "Opeansea",
+    "MARKETPLACE_LINK": "https://opensea.io/collection/sumairualwayshappy",
+    "SHOW_BACKGROUND": true
+  }

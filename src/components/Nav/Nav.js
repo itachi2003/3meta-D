@@ -78,7 +78,7 @@ const Nav = ({ first, second, third, fourth, fifth }) => {
   
           </div>
         </div>
-        <div className=" ml-auto font-bold text-lg	hidden flex-row items-center space-x-8 lg:flex">
+        <div className=" ml-auto font-bold z-20 text-lg	hidden flex-row items-center space-x-8 lg:flex">
           <li
             className={` ml-auto  border-2 border-solid px-2 ${
               first
