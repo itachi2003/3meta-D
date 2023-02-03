@@ -1,8 +1,7 @@
 body {
     font-family: robot;
-    overflow: hidden;
+    background-color: black;
 }
-
 /* Main section */
 .backdark{
     background-image: url(../src//components/Home/img/darkforest.jpg);
@@ -95,3 +94,30 @@ body {
         transform: translateY(-5px);
     }
  }
+ @keyframes move {
+    0% {
+        transform: translateY(-5px);
+    }
+    50% {
+        transform: translateY(10px) translateX(10px);
+}
+    100% {
+        transform: translateY(-5px);
+    }
+ }
+
+
+ /* popup function's */
+ .popup{
+    box-shadow: 0 0 25px hsl(0deg 0% 100% / 15%);
+    font-family: termina;
+    padding: 1rem 1.25rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(0 0 0/var(--tw-bg-opacity));
+    border-radius: 60px 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 3.5rem auto 1.25rem;
+ }
+ 

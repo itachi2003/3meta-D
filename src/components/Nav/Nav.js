@@ -12,7 +12,7 @@ const Nav = ({ first, second, third, fourth, fifth }) => {
     setshown(!isshown);
   };
   return (
-    <div className="text-white bg-black w-full h-16 font-robot">
+    <div className="text-white bg-black w-full h-16 font-robot border-b border-orangu">
       <ul className="flex flex-row items-center p-3 ">
         <li className="z-[51] ml-5 ">
           <Link to="/">

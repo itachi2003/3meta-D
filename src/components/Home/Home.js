@@ -5,7 +5,7 @@ import Logo from './img/main.png';
 const Home = () => {
   
   return (
-    <div className=" ">
+    <div className="">
       <Nav first />
         <div className="backdark flex flex-col justify-center " >
           <div className="flex justify-center relative kukuba">
