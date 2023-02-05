@@ -8,7 +8,7 @@ const Tribe = () => {
     <>
       <div className="mb-16">
         <Nav second />
-        <div class=" flex lg:mt-44 2xl:mt-72 lg:mx-52 sm:m-[10rem_calc(2rem+1vw)_0px] m-[3rem_calc(1rem+2vw)_0px] max-[640px]:items-center justify-center flex-col">
+        <div class=" flex lg:mt-44 2xl:mt-68 lg:mx-52 sm:m-[10rem_calc(2rem+1vw)_0px] m-[3rem_calc(1rem+2vw)_0px] max-[640px]:items-center justify-center flex-col">
           <div>
             <h1 class="inline-block text-[2rem] text-white">The Tribe</h1>
           </div>
