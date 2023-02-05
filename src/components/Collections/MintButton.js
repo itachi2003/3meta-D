@@ -20,8 +20,8 @@ const MintButton = () => {
     <>
       <div className="absolute bottom-0 right-[45%] medium:right-[20%] ">
         <div>
-        <div className="absolute medium:top-[-50px] top-[-90px] right-0 bg-orange-800 flex flex-row justify-center align-center p-[20px_40px] small:p-[14px_40px]  cursor-pointer" onClick={changer}>
-            <h1 className="  md:text-sm text-xs flex-none flex-grow-0 order-none leading-5 " >
+        <div className="absolute medium:top-[-50px] top-[-90px] right-0 bg-white border-double border-red-300  flex flex-row justify-center align-center p-[20px_40px] small:p-[14px_40px]  cursor-pointer" onClick={changer}>
+            <h1 className="text-2xl  sm:text-sm flex-none flex-grow-0 order-none leading-5 " >
              mint now
             </h1>
           </div>

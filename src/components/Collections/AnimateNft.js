@@ -37,6 +37,7 @@ height:60vh;
 .swiper{
     width:100%;
     height:100%;
+    color:white;
 }
 .swiper-slide{
   background-color: white;
@@ -58,7 +59,7 @@ height:60vh;
 
 }
 .swiper-button-prev{
-  color:black;
+  color:orange;
   left:20;
 }
 `
